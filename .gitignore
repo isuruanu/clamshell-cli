@@ -4,3 +4,7 @@ target
 nbactions.xml
 package*
 mock-env/plugins
+
+# idea
+*.iml
+.idea
